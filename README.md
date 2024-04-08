@@ -1,1 +1,2 @@
 # Text-to-Speech-Converter
+Welcome to our project on text-to-speech (TTS) conversion! We've built a simple and user-friendly tool using Python's Tkinter library. But what makes it special is its integration with Amazon Polly, a smart service that turns written words into lifelike speech. With our project, you can easily convert text to speech in different languages and voices, making communication more accessible and engaging for everyone. Let's dive in and explore the magic of TTS with Python and Amazon Polly!
